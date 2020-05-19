@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/lalit0322/SpaceGame/_apis/build/status/lalitadithya.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/lalit0322/SpaceGame/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
